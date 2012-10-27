@@ -14,7 +14,7 @@ weight: 5
   <br>
 
   <dt>Website</dt>
-  <dd>The website <a href="http://www.antw.cc">antw.cc</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a></dd>
+  <dd>The website <a href="http://antw.cc">antw.cc</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a></dd>
   <br>
 
 </dl>
