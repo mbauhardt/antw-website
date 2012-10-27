@@ -19,13 +19,16 @@ weight: 0
 		</p>
 	</div>
 	<div class="span7">
-		<ul class="thumbnails">
+<a href="collage.png" class="thumbnail">
+                      <img src="collage.png" alt="">
+                    </a>
+		<!--<ul class="thumbnails">
 		  <li class="span2">
-		    <a href="tree.png" class="thumbnail">
-		      <img src="tree.png" alt="">
+		    <a href="collage.png" class="thumbnail">
+		      <img src="collage.png" alt="">
 		    </a>
 		  </li>
-		</ul>
+		</ul-->
 	</div>
 </div>
 
