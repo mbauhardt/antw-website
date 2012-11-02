@@ -10,7 +10,7 @@ It is also recommended but optional to enable the antw junit formatter in your a
 One is the *antw.junit.JUnitStandardFormatter* and the other is class is *antw.junit.JUnitProfilerFormatter*.
 
 #### antw.junit.JUnitStandardFormatter
-Goto the [downloads](/downloads) page and download the *antw-junit-0.6-fat.jar* and add this jar files to your classpath. After that enable the formatter within your *test target* in your build.xml
+Goto the [downloads](/downloads) page and download the *antw-junit-0.6.1-fat.jar* and add this jar files to your classpath. After that enable the formatter within your *test target* in your build.xml
 
 	<target name="test" depends="jar, unit-jar">
 		<mkdir dir="build/reports" />
